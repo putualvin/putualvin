@@ -1,4 +1,4 @@
-![Header Image](URL_TO_A_NICE_HEADER_IMAGE_IF_YOU_HAVE_ONE)
+![Header Image](https://drive.google.com/file/d/1eyojiKOhUhx1Xmf2t39h44NYoAhKmtp7/view?usp=sharing)
 
 # Hello, world! 👋 I'm Putu
 
