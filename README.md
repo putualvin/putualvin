@@ -1,22 +1,38 @@
-### Hi there my name is Putu👋
+![Header Image](URL_TO_A_NICE_HEADER_IMAGE_IF_YOU_HAVE_ONE)
 
-I am a GIS Analyst passionate about data. I am currently based in Jakarta, Indonesia
+# Hello, world! 👋 I'm Putu
 
-### What I'm focusing
-Currently I am focusing in enhancing my knowledge in data processing, especially data engineering. 
-I am also focusing on creating a portfolio. Here is examples of my projects
+📍 **Location**: Jakarta, Indonesia  
+🌍 **Profession**: Data Analyst  
+❤️ **Passion**: Data
 
-### Data Analyst Projects
-1. [Netflix Analysis](https://github.com/putualvin/netflix-analysis)
-2. [House Price Analysis of Web Scrapped Data from rumah123.com](https://github.com/putualvin/house-price-analysis)
-3. [Customer Shopping Data Analysis From Kaggle Dataset](https://github.com/putualvin/customer-shopping-data-analysis)
-4. [Amazon Sales Data Analysis Form Kaggle Dataset](https://github.com/putualvin/amazon-sales-analysis)
+With a keen interest in data processing and engineering, I'm on a constant journey of growth and learning. Check out some of my projects and achievements below!
 
-### Data Engineer Projects
-1. [Web Scrapping House Price ETL](https://github.com/putualvin/etl-house-price)
+---
 
-### Digital Skola Data Engineer Bootcamp
-1. [Automation Report](https://github.com/putualvin/report-automation)
-2. [Spark Processing With Apache Airflow](https://github.com/putualvin/spark-airflow)
-3. [Machine Learning Pipeline](https://github.com/putualvin/digital-skola_project-7_machine-learning)
-4. [Final Project ETL Pipeline](https://github.com/putualvin/etl-final-project_digitalskola)
+## 📊 Data Analyst Projects
+- 🎬 [**Netflix Analysis**](https://github.com/putualvin/netflix-analysis) - A deep dive into trends and patterns of Netflix shows.
+- 🏡 [**House Price Analysis** of Web Scrapped Data from rumah123.com](https://github.com/putualvin/house-price-analysis) - Analyzing property price trends from a popular Indonesian property site.
+- 🛍️ [**Customer Shopping Data Analysis** From Kaggle Dataset](https://github.com/putualvin/customer-shopping-data-analysis) - Unveiling customer shopping behaviors and patterns.
+- 📦 [**Amazon Sales Data Analysis** From Kaggle Dataset](https://github.com/putualvin/amazon-sales-analysis) - Insights into Amazon's sales data.
+
+---
+
+## 🛠️ Data Engineer Projects
+- 🏠 [**Web Scrapping House Price ETL**](https://github.com/putualvin/etl-house-price) - An ETL pipeline for housing prices data extraction.
+
+---
+
+## 🎓 Digital Skola Data Engineer Bootcamp
+- 📈 [**Automation Report**](https://github.com/putualvin/report-automation) - Streamlined report generation through automation.
+- 🔥 [**Spark Processing With Apache Airflow**](https://github.com/putualvin/spark-airflow) - Leveraging the power of Spark with Airflow for data processing tasks.
+- 🤖 [**Machine Learning Pipeline**](https://github.com/putualvin/digital-skola_project-7_machine-learning) - A comprehensive ML pipeline for predictive analytics.
+- 📋 [**Final Project ETL Pipeline**](https://github.com/putualvin/etl-final-project_digitalskola) - The capstone project showcasing an end-to-end ETL process.
+
+---
+
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/i-putu-alvin-andika-476a0620a/)
+- [Twitter](YOUR_TWITTER_PROFILE_URL)
+- 📧 Email: putualvinandika@gmail.com
+
